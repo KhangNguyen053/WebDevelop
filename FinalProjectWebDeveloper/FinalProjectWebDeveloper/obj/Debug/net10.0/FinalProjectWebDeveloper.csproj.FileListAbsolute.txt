@@ -1,0 +1,985 @@
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\appsettings.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.exe
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.deps.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.runtimeconfig.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.pdb
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\bundle\FinalProjectWebDeveloper.styles.css
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\projectbundle\FinalProjectWebDeveloper.bundle.scp.css
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\v7tz3lwv8y-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q402kdik91-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\91f9dp60u1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\197ublaxsf-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\40ths7zmph-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\9u6bfjcg5f-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3hsesa9kjr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3tocu90g8a-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\trvmvpft2v-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\nnuwntuewn-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1vdujzjx8j-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\9szhk2pxl2-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1mifqcsfoh-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\hq9tu0e93l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\22170v14hl-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6u52m61ceu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6h8o9rq21t-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\078yll33f0-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\g1f90ddnoz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\fd8ytu3as4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\wqqi9hn54s-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\jyhyt41mqn-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\7si1yt9mxn-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\qfnwaagd5w-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\u4jm0a3udi-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\sdqxq5y3y6-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6tubdx4ugy-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\j6hk6llkxj-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\gh9qtwzyf3-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1ormdd9ytf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\fma4g8aj04-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\7i8hmgmpvc-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\xa0klv62lp-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\kfd4ujto77-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3ajwqoewph-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\g236gsneor-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\x9f7xkcubt-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\mf5tqsqh3k-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\le4ihc0o3k-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\0gbb3f3joc-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\yuna6ne3kv-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\eh7n17ogn4-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\t27jne7ceo-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ypky678wwu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\75uuodnhsi-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q8uinuoqn0-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q0wm9kzamd-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\l2v5o9kp84-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\c9u09yhdfy-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\2cd8osfd2v-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\icd6kad6zu-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\lbhr2etkud-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\zxjida4sx1-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\w18dehhcat-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\z1rjr6scze-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\u5iwv4yx5u-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\siayrx0ip6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\vu643r0zsi-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ffsks16zeh-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\mjmli7zhfu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\paajkfbnf5-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\sxbsu4tmoi-{0}-xe9q4fyvdm-xe9q4fyvdm.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\yyy5yb13eg-{0}-xe9q4fyvdm-xe9q4fyvdm.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalPro.A7521B82.Up2Date
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\refint\FinalProjectWebDeveloper.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.pdb
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.genruntimeconfig.cache
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\ref\FinalProjectWebDeveloper.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ui45m74jed-{0}-koafzn9tru-koafzn9tru.gz
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Admin\Desktop\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Humanizer.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.AssemblyInfo.cs
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\bundle\FinalProjectWebDeveloper.styles.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\projectbundle\FinalProjectWebDeveloper.bundle.scp.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ui45m74jed-{0}-koafzn9tru-koafzn9tru.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\v7tz3lwv8y-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q402kdik91-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\91f9dp60u1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\197ublaxsf-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\40ths7zmph-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\9u6bfjcg5f-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3hsesa9kjr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3tocu90g8a-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\trvmvpft2v-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\nnuwntuewn-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1vdujzjx8j-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\9szhk2pxl2-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1mifqcsfoh-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\hq9tu0e93l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\22170v14hl-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6u52m61ceu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6h8o9rq21t-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\078yll33f0-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\g1f90ddnoz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\fd8ytu3as4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\wqqi9hn54s-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\jyhyt41mqn-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\7si1yt9mxn-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\qfnwaagd5w-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\u4jm0a3udi-{0}-06098lyss8-06098lyss8.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\sdqxq5y3y6-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6tubdx4ugy-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\j6hk6llkxj-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\gh9qtwzyf3-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1ormdd9ytf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\fma4g8aj04-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\7i8hmgmpvc-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\xa0klv62lp-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\kfd4ujto77-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3ajwqoewph-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\g236gsneor-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\x9f7xkcubt-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\mf5tqsqh3k-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\le4ihc0o3k-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\0gbb3f3joc-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\yuna6ne3kv-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\eh7n17ogn4-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\t27jne7ceo-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ypky678wwu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\75uuodnhsi-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q8uinuoqn0-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q0wm9kzamd-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\l2v5o9kp84-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\c9u09yhdfy-{0}-356vix0kms-356vix0kms.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\2cd8osfd2v-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\icd6kad6zu-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\lbhr2etkud-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\zxjida4sx1-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\w18dehhcat-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\z1rjr6scze-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\u5iwv4yx5u-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\siayrx0ip6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\vu643r0zsi-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ffsks16zeh-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\mjmli7zhfu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\paajkfbnf5-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\sxbsu4tmoi-{0}-xe9q4fyvdm-xe9q4fyvdm.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\yyy5yb13eg-{0}-xe9q4fyvdm-xe9q4fyvdm.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\refint\FinalProjectWebDeveloper.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.pdb
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\css\site.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\favicon.ico
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 1.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 10.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 11.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 12.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 13.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 14.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 15.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 16.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 17.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 18.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 19.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 2.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 20.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 21.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 22.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 23.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 24.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 25.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 26.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 27.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 28.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 29.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 3.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 30.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 4.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 5.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 6.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 7.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 8.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 9.png
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\js\site.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\LICENSE
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\css\site.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\favicon.ico.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\js\site.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\additional-methods.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\additional-methods.min.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\jquery.validate.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\LICENSE.md.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.min.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.min.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.min.js.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.min.map.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\LICENSE.txt.gz
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\appsettings.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.staticwebassets.runtime.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.staticwebassets.endpoints.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.exe
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.deps.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.runtimeconfig.json
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.pdb
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalPro.A7521B82.Up2Date
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.genruntimeconfig.cache
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\ref\FinalProjectWebDeveloper.dll
+C:\Users\HP\Downloads\Mai Thạch Anh - 22206051-20260629T011635Z-3-001\Mai Thạch Anh - 22206051\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\refint\FinalProjectWebDeveloper.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.pdb
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.AssemblyInfo.cs
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.RazorAssemblyInfo.cache
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.RazorAssemblyInfo.cs
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\css\site.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\favicon.ico
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 1.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 10.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 11.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 12.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 13.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 14.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 15.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 16.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 17.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 18.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 19.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 2.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 20.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 21.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 22.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 23.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 24.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 25.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 26.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 27.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 28.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 29.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 3.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 30.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 4.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 5.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 6.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 7.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 8.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\images\Id 9.png
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\js\site.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\LICENSE
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\css\site.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\favicon.ico.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\js\site.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\additional-methods.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\additional-methods.min.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\jquery.validate.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery-validation\LICENSE.md.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.min.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.min.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.min.js.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\dist\jquery.slim.min.map.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\wwwroot\lib\jquery\LICENSE.txt.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.staticwebassets.endpoints.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\appsettings.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.staticwebassets.runtime.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.exe
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.deps.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.runtimeconfig.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\FinalProjectWebDeveloper.pdb
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Humanizer.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\bundle\FinalProjectWebDeveloper.styles.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\scopedcss\projectbundle\FinalProjectWebDeveloper.bundle.scp.css
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\v7tz3lwv8y-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q402kdik91-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\91f9dp60u1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\197ublaxsf-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\40ths7zmph-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\9u6bfjcg5f-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3hsesa9kjr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3tocu90g8a-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\trvmvpft2v-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\nnuwntuewn-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1vdujzjx8j-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\9szhk2pxl2-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1mifqcsfoh-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\hq9tu0e93l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\22170v14hl-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6u52m61ceu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6h8o9rq21t-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\078yll33f0-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\g1f90ddnoz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\fd8ytu3as4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\wqqi9hn54s-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\jyhyt41mqn-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\7si1yt9mxn-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\qfnwaagd5w-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\u4jm0a3udi-{0}-06098lyss8-06098lyss8.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\sdqxq5y3y6-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\6tubdx4ugy-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\j6hk6llkxj-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\gh9qtwzyf3-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\1ormdd9ytf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\fma4g8aj04-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\7i8hmgmpvc-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\xa0klv62lp-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\kfd4ujto77-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\3ajwqoewph-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\g236gsneor-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\x9f7xkcubt-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\mf5tqsqh3k-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\le4ihc0o3k-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\0gbb3f3joc-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\yuna6ne3kv-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\eh7n17ogn4-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\t27jne7ceo-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ypky678wwu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\75uuodnhsi-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q8uinuoqn0-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\q0wm9kzamd-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\l2v5o9kp84-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\c9u09yhdfy-{0}-356vix0kms-356vix0kms.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\2cd8osfd2v-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\icd6kad6zu-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\lbhr2etkud-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\zxjida4sx1-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\w18dehhcat-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\z1rjr6scze-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\u5iwv4yx5u-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\siayrx0ip6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\vu643r0zsi-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ffsks16zeh-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\mjmli7zhfu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\paajkfbnf5-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\sxbsu4tmoi-{0}-xe9q4fyvdm-xe9q4fyvdm.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\yyy5yb13eg-{0}-xe9q4fyvdm-xe9q4fyvdm.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalPro.A7521B82.Up2Date
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\FinalProjectWebDeveloper.genruntimeconfig.cache
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\ref\FinalProjectWebDeveloper.dll
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\compressed\ui45m74jed-{0}-o1ty8tc9im-o1ty8tc9im.gz
+C:\Users\admin\Downloads\FinalProjectWebDeveloper (1)\FinalProjectWebDeveloper\FinalProjectWebDeveloper\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

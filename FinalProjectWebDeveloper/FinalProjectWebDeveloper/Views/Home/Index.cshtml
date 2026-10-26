@@ -1,0 +1,107 @@
+@model IEnumerable<FinalProjectWebDeveloper.Models.Product>
+@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<!-- Hero Section -->
+<div class="position-relative py-5 overflow-hidden text-center text-white" style="background: linear-gradient(rgba(15, 12, 10, 0.85), rgba(15, 12, 10, 0.95)), url('https://images.unsplash.com/photo-1561758033-d89a9ad46330?auto=format&fit=crop&q=80&w=1600') no-repeat center center; background-size: cover; min-height: 550px; display: flex; align-items: center; justify-content: center;">
+    <div class="container py-5">
+        <h5 class="text-uppercase fw-bold text-spacing mb-3" style="color: #d4a373; letter-spacing: 3px;">Chào mừng bạn đến với FastFoodShop</h5>
+        <h1 class="display-3 fw-bold serif-font text-white mb-4">Thức Ăn Nhanh Tuyệt Hảo<br>Nóng Hổi & Tiện Lợi</h1>
+        <p class="lead mx-auto mb-5" style="max-width: 600px; color: #c8b6a6;">Mỗi phần ăn tại FastFoodShop đều được chuẩn bị từ nguyên liệu tươi ngon nhất, mang đến hương vị tuyệt hảo, nóng hổi và phục vụ nhanh chóng.</p>
+        <div class="d-flex gap-3 justify-content-center">
+            <a asp-controller="Product" asp-action="Index" class="btn btn-primary px-4 py-3 text-uppercase fw-bold border-0" style="background-color: #d4a373; color: #1a1512; border-radius: 8px;">
+                Xem Thực Đơn <i class="bi bi-arrow-right ms-2"></i>
+            </a>
+            <a href="#about" class="btn btn-outline-secondary px-4 py-3 text-uppercase fw-bold text-white border-white" style="border-radius: 8px;">
+                Về Chúng Tôi
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- Về chúng tôi (About) -->
+<div id="about" class="container py-5 mt-5" style="color: #f5efe6;">
+    <div class="row align-items-center g-5">
+        <div class="col-md-6">
+            <img src="~/images/Id 1.png" alt="Về chúng tôi" class="img-fluid rounded shadow-lg" style="object-fit: cover; max-height: 400px; width: 100%; border: 1px solid #3d3027;">
+        </div>
+        <div class="col-md-6">
+            <h5 class="text-uppercase fw-bold" style="color: #d4a373; letter-spacing: 2px;">CÂU CHUYỆN CỦA CHÚNG TÔI</h5>
+            <h2 class="fw-bold serif-font my-3 fs-1" style="color:#000;">Chất Lượng Thức Ăn Từ Sự Tận Tâm</h2>
+            <p style="color: #c8b6a6; line-height: 1.8;">Tại FastFoodShop, chúng tôi tin rằng những món ăn nhanh tuyệt vời không chỉ tiện lợi mà còn phải đảm bảo hương vị đỉnh cao. Quy trình chuẩn bị khép kín từ các nhà cung cấp uy tín nhất đảm bảo mang lại cho bạn những bữa ăn ngon miệng và an toàn vệ sinh thực phẩm.</p>
+            <p style="color: #c8b6a6; line-height: 1.8;">Hãy ghé thăm FastFoodShop hoặc đặt hàng trực tuyến để tận hưởng hương vị giòn rụm của Gà rán, độ đậm đà của Hamburger bò, sự hấp dẫn từ những chiếc Pizza phô mai kéo sợi và những loại đồ uống thanh mát giải nhiệt.</p>
+        </div>
+    </div>
+</div>
+
+<!-- Sản Phẩm Nổi Bật (Featured Products) -->
+<div class="container py-5 mt-5">
+    <div class="text-center mb-5">
+        <h5 class="text-uppercase fw-bold" style="color: #d4a373; letter-spacing: 2px;">SẢN PHẨM BÁN CHẠY</h5>
+        <h2 class="fw-bold serif-font mt-2 fs-1" style="color:#000;">Món Ăn Nổi Bật Được Yêu Thích</h2>
+        <div style="height: 3px; width: 60px; background-color: #d4a373; margin: 15px auto 0;"></div>
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+        @foreach (var item in Model)
+        {
+            var minPrice = item.ProductSizes.Any() ? item.ProductSizes.Min(s => s.Price) : 0;
+            <div class="col">
+                <div class="card h-100 border-0 shadow-sm" style="background-color: #1a1512; color: #f5efe6; border-radius: 12px; transition: transform 0.3s ease; overflow: hidden;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
+                    <div style="height: 180px; overflow: hidden;">
+                        <img src="~/images/@item.ImageURL" class="card-img-top h-100 w-100" alt="@item.ProductName" style="object-fit: cover;">
+                    </div>
+                    <div class="card-body d-flex flex-column p-4">
+                        <h6 class="card-title fw-bold text-truncate mb-2 text-white">@item.ProductName</h6>
+
+                        <div class="d-flex justify-content-between align-items-center mt-auto pt-2">
+                            <div>
+                                <span class="text-muted block" style="font-size: 0.75rem;">Giá từ</span>
+                                <h6 class="fw-bold mb-0 text-white">@minPrice.ToString("N0")đ</h6>
+                            </div>
+                            <a asp-controller="Product" asp-action="Detail" asp-route-id="@item.ProductID" class="btn btn-outline-primary border-1 px-3 py-1 text-uppercase fw-bold" style="border-color: #d4a373; color: #d4a373; border-radius: 6px; font-size: 0.75rem; transition: all 0.3s;">
+                                Chi tiết
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="text-center mt-5">
+        <a asp-controller="Product" asp-action="Index" class="btn btn-outline-primary border-secondary text-white px-5 py-3 text-uppercase fw-bold" style="border-radius: 8px;">
+            Khám phá toàn bộ menu
+        </a>
+    </div>
+</div>
+
+<!-- Lợi ích / Điểm cộng -->
+<div class="container-fluid py-5 mt-5" style="background-color: #120f0d; border-top: 1px solid #2b231d;">
+    <div class="container">
+        <div class="row g-4 text-center">
+            <div class="col-md-4">
+                <div class="p-4">
+                    <i class="bi bi-award-fill" style="font-size: 3rem; color: #d4a373;"></i>
+                    <h5 class="fw-bold text-white mt-3 mb-2">Nguyên Liệu Tươi Ngon</h5>
+                    <p class="small text-muted" style="color: #c8b6a6 !important;">Thịt gà, bò và rau củ được lựa chọn kỹ càng hàng ngày, giữ trọn vị tươi mới.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="p-4">
+                    <i class="bi bi-fire" style="font-size: 3rem; color: #d4a373;"></i>
+                    <h5 class="fw-bold text-white mt-3 mb-2">Chế Biến Nóng Hổi</h5>
+                    <p class="small text-muted" style="color: #c8b6a6 !important;">Món ăn chỉ được chế biến ngay sau khi bạn đặt hàng, đảm bảo luôn nóng hổi.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="p-4">
+                    <i class="bi bi-lightning-charge-fill" style="font-size: 3rem; color: #d4a373;"></i>
+                    <h5 class="fw-bold text-white mt-3 mb-2">Phục Vụ Nhanh Chóng</h5>
+                    <p class="small text-muted" style="color: #c8b6a6 !important;">Đội ngũ nhân viên thân thiện, quy trình tối ưu giúp bạn nhận món trong thời gian ngắn nhất.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

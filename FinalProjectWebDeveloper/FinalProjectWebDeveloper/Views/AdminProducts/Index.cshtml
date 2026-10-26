@@ -1,0 +1,116 @@
+@model IEnumerable<FinalProjectWebDeveloper.Models.Product>
+@{
+    ViewData["Title"] = "Quản Lý Sản Phẩm";
+}
+
+<div class="container-fluid py-4" style="color: #f5efe6;">
+    <div class="d-flex justify-content-between align-items-center mb-4 pb-2 border-bottom border-secondary">
+        <div>
+            <h2 class="fw-bold text-uppercase" style="color: #d4a373; letter-spacing: 1px;">
+                <i class="bi bi-cup-hot"></i> Quản Lý Sản Phẩm
+            </h2>
+            <p class="text-muted mb-0">Thêm, sửa, xóa sản phẩm trong menu cửa hàng</p>
+        </div>
+        <a asp-action="Create" class="btn btn-primary border-0" style="background-color: #d4a373; color: #1a1512; font-weight: 500;">
+            <i class="bi bi-plus-circle-fill"></i> Thêm Sản Phẩm Mới
+        </a>
+    </div>
+
+    <!-- Thanh Điều hướng nhanh cho Admin -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card border-0 p-3" style="background-color: #1a1512; border-radius: 10px;">
+                <div class="d-flex flex-wrap gap-3 align-items-center">
+                    <span class="fw-bold text-uppercase small text-muted me-2" style="color: #c8b6a6 !important;">Công cụ quản lý:</span>
+                    <a asp-controller="Admin" asp-action="Index" class="btn btn-sm btn-outline-secondary border-secondary text-white" style="font-weight: 500;">
+                        <i class="bi bi-graph-up"></i> Thống kê Doanh thu
+                    </a>
+                    <a asp-controller="AdminProducts" asp-action="Index" class="btn btn-sm btn-primary border-0" style="background-color: #d4a373; color: #1a1512; font-weight: 500;">
+                        <i class="bi bi-cup-hot"></i> Quản lý Sản phẩm
+                    </a>
+                    <a asp-controller="AdminOrders" asp-action="Index" class="btn btn-sm btn-outline-secondary border-secondary text-white" style="font-weight: 500;">
+                        <i class="bi bi-receipt"></i> Quản lý Đơn hàng
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success border-0 text-center" role="alert" style="background-color: #d4a373; color: #1a1512;">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger border-0 text-center" role="alert">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <!-- Bảng danh sách sản phẩm -->
+    <div class="card border-0 p-4 shadow-sm" style="background-color: #1a1512; border-radius: 12px;">
+        <div class="table-responsive">
+            <table class="table align-middle" style="color: #f5efe6;">
+                <thead class="text-uppercase" style="color: #d4a373; border-bottom: 2px solid #d4a373;">
+                    <tr>
+                        <th style="width: 80px;">Hình</th>
+                        <th>Tên sản phẩm</th>
+                        <th>Loại</th>
+                        <th>Giá Size</th>
+                        <th>Trạng thái</th>
+                        <th style="width: 180px;" class="text-center">Hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="border-bottom border-secondary">
+                            <td>
+                                <img src="~/images/@item.ImageURL" alt="@item.ProductName" style="width: 60px; height: 60px; object-fit: cover; border-radius: 8px;">
+                            </td>
+                            <td class="fw-bold">@item.ProductName</td>
+                            <td>@item.Category?.CategoryName</td>
+                            <td>
+                                <div class="d-flex flex-column gap-1 small">
+                                    @foreach (var size in item.ProductSizes.OrderBy(s => s.Price))
+                                    {
+                                        <span>@size.SizeName: <strong>@size.Price.ToString("N0")đ</strong></span>
+                                    }
+                                    @if (!item.ProductSizes.Any())
+                                    {
+                                        <span class="text-danger small">Chưa cấu hình giá</span>
+                                    }
+                                </div>
+                            </td>
+                            <td>
+                                @if (item.IsAvailable == true)
+                                {
+                                    <span class="badge bg-success">Đang bán</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger">Đã ẩn</span>
+                                }
+                            </td>
+                            <td class="text-center">
+                                <div class="d-flex justify-content-center gap-2">
+                                    <a asp-action="Edit" asp-route-id="@item.ProductID" class="btn btn-sm btn-outline-warning" style="border-radius: 6px;">
+                                        <i class="bi bi-pencil-square"></i> Sửa
+                                    </a>
+                                    <form asp-action="Delete" asp-route-id="@item.ProductID" method="post" onsubmit="return confirm('Bạn chắc chắn muốn xóa/ẩn sản phẩm này?')">
+                                        @Html.AntiForgeryToken()
+                                        <button type="submit" class="btn btn-sm btn-outline-danger" style="border-radius: 6px;">
+                                            <i class="bi bi-trash"></i> Xóa
+                                        </button>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

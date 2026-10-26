@@ -1,0 +1,94 @@
+@model IEnumerable<FinalProjectWebDeveloper.Models.OrderHeader>
+@{
+    ViewData["Title"] = "Quản Lý Đơn Hàng";
+}
+
+<div class="container-fluid py-4" style="color: #f5efe6;">
+    <div class="d-flex justify-content-between align-items-center mb-4 pb-2 border-bottom border-secondary">
+        <div>
+            <h2 class="fw-bold text-uppercase" style="color: #d4a373; letter-spacing: 1px;">
+                <i class="bi bi-receipt"></i> Quản Lý Đơn Hàng
+            </h2>
+            <p class="text-muted mb-0">Xem và cập nhật trạng thái đơn đặt hàng của khách hàng</p>
+        </div>
+    </div>
+
+    <!-- Thanh Điều hướng nhanh cho Admin -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card border-0 p-3" style="background-color: #1a1512; border-radius: 10px;">
+                <div class="d-flex flex-wrap gap-3 align-items-center">
+                    <span class="fw-bold text-uppercase small text-muted me-2" style="color: #c8b6a6 !important;">Công cụ quản lý:</span>
+                    <a asp-controller="Admin" asp-action="Index" class="btn btn-sm btn-outline-secondary border-secondary text-white" style="font-weight: 500;">
+                        <i class="bi bi-graph-up"></i> Thống kê Doanh thu
+                    </a>
+                    <a asp-controller="AdminProducts" asp-action="Index" class="btn btn-sm btn-outline-secondary border-secondary text-white" style="font-weight: 500;">
+                        <i class="bi bi-cup-hot"></i> Quản lý Sản phẩm
+                    </a>
+                    <a asp-controller="AdminOrders" asp-action="Index" class="btn btn-sm btn-primary border-0" style="background-color: #d4a373; color: #1a1512; font-weight: 500;">
+                        <i class="bi bi-receipt"></i> Quản lý Đơn hàng
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success border-0 text-center" role="alert" style="background-color: #d4a373; color: #1a1512;">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <!-- Bảng danh sách đơn hàng -->
+    <div class="card border-0 p-4 shadow-sm" style="background-color: #1a1512; border-radius: 12px;">
+        <div class="table-responsive">
+            <table class="table align-middle" style="color: #f5efe6;">
+                <thead class="text-uppercase" style="color: #d4a373; border-bottom: 2px solid #d4a373;">
+                    <tr>
+                        <th>Mã Đơn</th>
+                        <th>Khách hàng</th>
+                        <th>Ngày Đặt</th>
+                        <th>Tổng tiền</th>
+                        <th>Trạng thái</th>
+                        <th style="width: 150px;" class="text-center">Hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="border-bottom border-secondary">
+                            <td class="fw-bold">#@item.OrderID</td>
+                            <td>@item.Customer?.FullName</td>
+                            <td>@item.OrderDate?.ToString("dd/MM/yyyy HH:mm")</td>
+                            <td class="fw-bold">@item.TotalAmount.ToString("N0")đ</td>
+                            <td>
+                                @if (item.Status == "Mới")
+                                {
+                                    <span class="badge bg-info text-dark">Mới</span>
+                                }
+                                else if (item.Status == "Đã vận chuyển")
+                                {
+                                    <span class="badge bg-warning text-dark">Đã vận chuyển</span>
+                                }
+                                else if (item.Status == "Đã thanh toán")
+                                {
+                                    <span class="badge bg-success">Đã thanh toán</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-secondary">@item.Status</span>
+                                }
+                            </td>
+                            <td class="text-center">
+                                <a asp-action="Details" asp-route-id="@item.OrderID" class="btn btn-sm btn-outline-primary px-3" style="border-color: #d4a373; color: #d4a373; border-radius: 6px;">
+                                    <i class="bi bi-eye"></i> Xem chi tiết
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

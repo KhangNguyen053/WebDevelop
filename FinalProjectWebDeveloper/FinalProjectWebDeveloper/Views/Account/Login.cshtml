@@ -1,0 +1,47 @@
+@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class="row justify-content-center align-items-center min-vh-75 py-5">
+    <div class="col-md-5">
+        <div class="card border-0 shadow-sm" style="background-color: var(--color-card-bg); color: var(--color-text); border: 1px solid #e0e0e0; border-radius: 15px;">
+            <div class="card-body p-5">
+                <div class="text-center mb-4">
+                    <i class="bi bi-shop" style="font-size: 3rem; color: var(--color-primary);"></i>
+                    <h2 class="fw-bold mt-2 text-uppercase" style="letter-spacing: 2px; color: var(--color-text);">Đăng Nhập</h2>
+                    <p class="text-muted">Món ăn nhanh thơm ngon nóng hổi đang chờ bạn</p>
+                </div>
+
+                @if (TempData["SuccessMessage"] != null)
+                {
+                    <div class="alert alert-success border-0 text-center" role="alert">
+                        @TempData["SuccessMessage"]
+                    </div>
+                }
+
+                <form asp-action="Login" method="post">
+                    @Html.AntiForgeryToken()
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3 small"></div>
+
+                    <div class="mb-3">
+                        <label for="username" class="form-label text-uppercase small fw-bold" style="color: var(--color-muted);">Tên đăng nhập</label>
+                        <input type="text" class="form-control bg-white text-dark border-secondary p-3" id="username" name="username" placeholder="Nhập tên đăng nhập" required style="border-radius: 8px;">
+                    </div>
+
+                    <div class="mb-4">
+                        <label for="password" class="form-label text-uppercase small fw-bold" style="color: var(--color-muted);">Mật khẩu</label>
+                        <input type="password" class="form-control bg-white text-dark border-secondary p-3" id="password" name="password" placeholder="Nhập mật khẩu" required style="border-radius: 8px;">
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 py-3 text-uppercase fw-bold" style="border-radius: 8px; border: none;">
+                        Đăng Nhập
+                    </button>
+                </form>
+
+                <div class="text-center mt-4">
+                    <p class="mb-0 small text-secondary">Chưa có tài khoản? <a asp-action="Register" class="fw-bold text-decoration-none" style="color: var(--color-primary);">Đăng ký ngay</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

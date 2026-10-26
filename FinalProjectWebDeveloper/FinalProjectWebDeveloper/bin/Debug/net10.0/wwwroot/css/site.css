@@ -1,0 +1,142 @@
+:root {
+  /* Màu sắc sáng, tươi trẻ */
+  --color-bg: #fafafa;
+  --color-card-bg: #ffffff;
+  --color-primary: #ff6f61;   /* Coral */
+  --color-secondary: #6c63ff; /* Purple nhẹ */
+  --color-accent: #ffb400;    /* Vàng cam */
+  --color-text: #333333;
+  --color-muted: #777777;
+
+  --font-primary: 'Outfit', sans-serif;
+  --font-serif: 'Playfair Display', serif;
+}
+
+/* Layout chung */
+body {
+  background: linear-gradient(135deg, #e0f7fa, #fffde7);
+  color: var(--color-text);
+  font-family: var(--font-primary);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+}
+.serif-font {
+  font-family: var(--font-serif);
+}
+
+/* Navbar */
+.navbar-custom {
+  background-color: var(--color-card-bg);
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  padding: 1rem 0;
+}
+.navbar-custom .navbar-brand {
+  color: var(--color-primary) !important;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  font-size: 1.45rem;
+}
+.navbar-custom .nav-link {
+  color: var(--color-muted) !important;
+  font-weight: 500;
+  transition: color 0.3s ease;
+  font-size: 0.95rem;
+}
+.navbar-custom .nav-link:hover,
+.navbar-custom .nav-link.active {
+  color: var(--color-primary) !important;
+}
+
+/* Inputs & Forms */
+.form-control:focus, .form-select:focus {
+  border-color: var(--color-primary) !important;
+  box-shadow: 0 0 0 0.25rem rgba(255,111,97,0.25) !important;
+  background-color: rgba(255,255,255,0.9) !important;
+  color: var(--color-text) !important;
+}
+.form-control, .form-select {
+  transition: all 0.3s ease;
+}
+
+/* Buttons */
+.btn-primary {
+  background: linear-gradient(45deg, var(--color-primary), var(--color-secondary));
+  border: none;
+  color: #fff !important;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  transition: transform 0.2s, background 0.3s;
+}
+.btn-primary:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(45deg, var(--color-secondary), var(--color-primary));
+}
+.btn-outline-primary {
+  color: var(--color-primary) !important;
+  border-color: var(--color-primary) !important;
+}
+.btn-outline-primary:hover {
+  background-color: var(--color-primary);
+  color: #fff !important;
+}
+
+/* Card */
+.card-coffee {
+  background-color: var(--color-card-bg);
+  color: var(--color-text);
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.card-coffee:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+/* Badges */
+.badge-gold {
+  background-color: var(--color-accent);
+  color: #fff;
+  border: none;
+  font-weight: 500;
+}
+
+/* Footer */
+footer {
+  background-color: #f0f0f0;
+  border-top: 1px solid #e0e0e0;
+  padding: 3rem 0;
+  color: var(--color-muted);
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-card-bg);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary);
+}
+
+/* Active pagination */
+.active-page {
+  background-color: var(--color-primary) !important;
+  color: #fff !important;
+  font-weight: 600;
+}

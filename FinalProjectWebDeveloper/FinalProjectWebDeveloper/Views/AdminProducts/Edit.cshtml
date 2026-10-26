@@ -1,0 +1,101 @@
+@model FinalProjectWebDeveloper.Models.Product
+@{
+    ViewData["Title"] = "Chỉnh Sửa Sản Phẩm";
+    var categories = ViewBag.Categories as IEnumerable<FinalProjectWebDeveloper.Models.Category> ?? new List<FinalProjectWebDeveloper.Models.Category>();
+    decimal? priceS = ViewBag.PriceS;
+    decimal? priceM = ViewBag.PriceM;
+    decimal? priceL = ViewBag.PriceL;
+}
+
+<div class="container py-4" style="color: #f5efe6;">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card border-0 shadow-lg" style="background-color: #1a1512; color: #f5efe6; border-radius: 15px;">
+                <div class="card-header border-0 bg-transparent pt-4 px-4">
+                    <h3 class="fw-bold text-uppercase mb-0" style="color: #d4a373;">
+                        <i class="bi bi-pencil-square"></i> Chỉnh Sửa Sản Phẩm
+                    </h3>
+                </div>
+                <div class="card-body p-4">
+                    <form asp-action="Edit" method="post" enctype="multipart/form-data">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" asp-for="ProductID" />
+
+                        <div class="row mb-3">
+                            <div class="col-md-8">
+                                <label asp-for="ProductName" class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Tên sản phẩm *</label>
+                                <input asp-for="ProductName" class="form-control bg-transparent text-white border-secondary" required style="border-radius: 8px;">
+                            </div>
+                            <div class="col-md-4">
+                                <label asp-for="CategoryID" class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Loại sản phẩm *</label>
+                                <select asp-for="CategoryID" class="form-select bg-dark text-white border-secondary" required style="border-radius: 8px;">
+                                    @foreach (var cat in categories)
+                                    {
+                                        <option value="@cat.CategoryID" selected="@(cat.CategoryID == Model.CategoryID ? "selected" : null)">@cat.CategoryName</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+
+
+
+                        <div class="row mb-3 align-items-center">
+                            <div class="col-md-8">
+                                <label class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Thay đổi hình ảnh</label>
+                                <input type="file" name="imageFile" class="form-control bg-transparent text-white border-secondary" style="border-radius: 8px;">
+                                <span class="small text-muted block mt-1" style="color: #c8b6a6 !important;">Chọn tệp để thay thế ảnh hiện tại.</span>
+                            </div>
+                            <div class="col-md-4 text-center mt-3 mt-md-0">
+                                <span class="small d-block mb-1 text-muted">Ảnh hiện tại:</span>
+                                <img src="~/images/@Model.ImageURL" alt="@Model.ProductName" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px; border: 1px solid #3d3027;">
+                            </div>
+                        </div>
+
+                        <div class="mb-4">
+                            <div class="form-check form-switch">
+                                <input class="form-check-input" type="checkbox" id="IsAvailable" name="IsAvailable" value="true" @(Model.IsAvailable == true ? "checked" : "")>
+                                <label class="form-check-label fw-bold text-uppercase small" for="IsAvailable" style="color: #d4a373;">Đang kinh doanh (Hiển thị lên menu)</label>
+                                <input type="hidden" name="IsAvailable" value="false" />
+                            </div>
+                        </div>
+
+                        <!-- Cấu hình giá các Size -->
+                        <h5 class="fw-bold mb-3 mt-4" style="color: #d4a373; border-bottom: 1px solid #3d3027; padding-bottom: 8px;">CHỈNH SỬA GIÁ THEO KÍCH CỠ (SIZE)</h5>
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                <label for="priceS" class="form-label small fw-bold text-muted" style="color: #c8b6a6 !important;">Size S (360ml):</label>
+                                <div class="input-group">
+                                    <input type="number" id="priceS" name="priceS" class="form-control bg-transparent text-white border-secondary" value="@(priceS?.ToString("F0"))" min="0" placeholder="Trống nếu không bán">
+                                    <span class="input-group-text bg-dark border-secondary text-white">đ</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="priceM" class="form-label small fw-bold text-muted" style="color: #c8b6a6 !important;">Size M (500ml):</label>
+                                <div class="input-group">
+                                    <input type="number" id="priceM" name="priceM" class="form-control bg-transparent text-white border-secondary" value="@(priceM?.ToString("F0"))" min="0" placeholder="Trống nếu không bán">
+                                    <span class="input-group-text bg-dark border-secondary text-white">đ</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="priceL" class="form-label small fw-bold text-muted" style="color: #c8b6a6 !important;">Size L (700ml):</label>
+                                <div class="input-group">
+                                    <input type="number" id="priceL" name="priceL" class="form-control bg-transparent text-white border-secondary" value="@(priceL?.ToString("F0"))" min="0" placeholder="Trống nếu không bán">
+                                    <span class="input-group-text bg-dark border-secondary text-white">đ</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="d-flex gap-3 justify-content-end mt-5 pt-3 border-top border-secondary">
+                            <a asp-action="Index" class="btn btn-outline-secondary px-4 py-2 border-secondary text-white" style="border-radius: 8px;">
+                                Hủy Bỏ
+                            </a>
+                            <button type="submit" class="btn btn-primary px-4 py-2 border-0" style="background-color: #d4a373; color: #1a1512; font-weight: 500; border-radius: 8px;">
+                                Lưu Thay Đổi
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,172 @@
+@model IEnumerable<FinalProjectWebDeveloper.Models.CartItemViewModel>
+@{
+    ViewData["Title"] = "Thanh Toán";
+    var customer = ViewBag.Customer as FinalProjectWebDeveloper.Models.Customer;
+    decimal totalAmount = ViewBag.TotalAmount ?? 0;
+}
+
+<div class="container py-5" style="color: #f5efe6;">
+    <h2 class="fw-bold mb-5 text-uppercase" style="color: #d4a373; border-bottom: 2px solid #d4a373; padding-bottom: 10px;">
+        <i class="bi bi-credit-card-2-back"></i> Tiến Hành Thanh Toán
+    </h2>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger border-0">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <form asp-action="ProcessCheckout" method="post" id="checkout-form">
+        @Html.AntiForgeryToken()
+        <div class="row g-5">
+            <!-- Thông tin giao hàng -->
+            <div class="col-lg-7">
+                <div class="card border-0 p-4 shadow-sm" style="background-color: #1a1512; color: #f5efe6; border-radius: 12px;">
+                    <h5 class="fw-bold mb-4" style="color: #d4a373; border-left: 3px solid #d4a373; padding-left: 10px;">THÔNG TIN GIAO HÀNG</h5>
+                    
+                    <div class="mb-3">
+                        <label for="fullName" class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Họ tên người nhận *</label>
+                        <input type="text" class="form-control bg-transparent text-white border-secondary p-2" id="fullName" name="fullName" value="@customer?.FullName" required style="border-radius: 8px;">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="phone" class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Số điện thoại *</label>
+                        <input type="tel" class="form-control bg-transparent text-white border-secondary p-2" id="phone" name="phone" value="@customer?.Phone" required style="border-radius: 8px;">
+                    </div>
+
+                    <div class="mb-4">
+                        <label for="address" class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Địa chỉ nhận hàng *</label>
+                        <textarea class="form-control bg-transparent text-white border-secondary p-2" id="address" name="address" rows="3" required style="border-radius: 8px;">@customer?.Address</textarea>
+                    </div>
+
+                    <h5 class="fw-bold mb-4 mt-5" style="color: #d4a373; border-left: 3px solid #d4a373; padding-left: 10px;">PHƯƠNG THỨC THANH TOÁN</h5>
+                    <div class="mb-3">
+                        <div class="form-check mb-3">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="payment-cash" value="Cash" checked>
+                            <label class="form-check-label fw-bold" for="payment-cash">
+                                Thanh toán khi nhận hàng (COD)
+                            </label>
+                        </div>
+                        <div class="form-check mb-3">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="payment-momo" value="MoMo">
+                            <label class="form-check-label fw-bold" for="payment-momo">
+                                Thanh toán qua ví MoMo
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="payment-bank" value="Bank">
+                            <label class="form-check-label fw-bold" for="payment-bank">
+                                Chuyển khoản ngân hàng
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tóm tắt đơn hàng & Voucher -->
+            <div class="col-lg-5">
+                <!-- Danh sách sản phẩm mua -->
+                <div class="card border-0 p-4 shadow-sm mb-4" style="background-color: #1a1512; color: #f5efe6; border-radius: 12px;">
+                    <h5 class="fw-bold mb-4" style="color: #d4a373;">ĐƠN HÀNG CỦA BẠN</h5>
+                    <div class="d-flex flex-column gap-3 mb-4" style="max-height: 250px; overflow-y: auto;">
+                        @foreach (var item in Model)
+                        {
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex align-items-center gap-2">
+                                    <span class="badge bg-secondary">x@item.Quantity</span>
+                                    <span class="small">@item.ProductName (@item.SizeName)</span>
+                                </div>
+                                <span class="fw-bold">@item.TotalPrice.ToString("N0")đ</span>
+                            </div>
+                        }
+                    </div>
+
+                    <!-- Voucher code -->
+                    <div class="mb-4 pt-3 border-top border-secondary">
+                        <label for="voucherCode" class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Mã Voucher</label>
+                        <div class="input-group">
+                            <input type="text" class="form-control bg-transparent text-white border-secondary" id="voucherCode" name="voucherCode" placeholder="Nhập mã giảm giá (ví dụ: SALE20)" style="border-top-left-radius: 8px; border-bottom-left-radius: 8px;">
+                            <button class="btn btn-secondary border-secondary text-white" type="button" onclick="applyVoucher()" style="background-color: #d4a373; color: #1a1512 !important; border-top-right-radius: 8px; border-bottom-right-radius: 8px;">
+                                Áp dụng
+                            </button>
+                        </div>
+                        <div id="voucher-message" class="small mt-2"></div>
+                    </div>
+
+                    <!-- Tổng kết tiền -->
+                    <div class="border-top border-secondary pt-3">
+                        <div class="d-flex justify-content-between mb-2">
+                            <span>Tạm tính:</span>
+                            <span>@totalAmount.ToString("N0")đ</span>
+                        </div>
+                        <div class="d-flex justify-content-between mb-2 d-none" id="discount-row" style="color: #d4a373;">
+                            <span>Voucher Giảm Giá (<span id="discount-percent">0</span>%):</span>
+                            <span>-<span id="discount-amount">0</span>đ</span>
+                        </div>
+                        <div class="d-flex justify-content-between mb-3 border-top border-secondary pt-3">
+                            <span class="fw-bold">Tổng số tiền:</span>
+                            <h4 class="fw-bold mb-0" id="final-total" style="color: #d4a373;">@totalAmount.ToString("N0")đ</h4>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 py-3 text-uppercase fw-bold border-0 mt-3" style="background-color: #d4a373; color: #1a1512; border-radius: 8px;">
+                        Đặt Hàng Ngay
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        const subtotal = @totalAmount;
+        let discountPercent = 0;
+
+        function applyVoucher() {
+            const code = document.getElementById('voucherCode').value.trim();
+            const messageDiv = document.getElementById('voucher-message');
+            const discountRow = document.getElementById('discount-row');
+            const discountPercentSpan = document.getElementById('discount-percent');
+            const discountAmountSpan = document.getElementById('discount-amount');
+            const finalTotalHeader = document.getElementById('final-total');
+
+            if (!code) {
+                messageDiv.className = "small mt-2 text-danger";
+                messageDiv.innerText = "Vui lòng nhập mã voucher.";
+                return;
+            }
+
+            fetch(`/Cart/CheckVoucher?code=${encodeURIComponent(code)}`)
+                .then(res => res.json())
+                .then(data => {
+                    if (data.success) {
+                        discountPercent = data.discountPercent;
+                        messageDiv.className = "small mt-2 text-success";
+                        messageDiv.innerText = `Áp dụng thành công! Giảm ${discountPercent}% cho đơn hàng.`;
+
+                        // Tính tiền
+                        const discountAmt = Math.round(subtotal * discountPercent / 100);
+                        const finalAmt = subtotal - discountAmt;
+
+                        discountRow.classList.remove('d-none');
+                        discountPercentSpan.innerText = discountPercent;
+                        discountAmountSpan.innerText = discountAmt.toLocaleString('vi-VN');
+                        finalTotalHeader.innerText = finalAmt.toLocaleString('vi-VN') + 'đ';
+                    } else {
+                        discountPercent = 0;
+                        messageDiv.className = "small mt-2 text-danger";
+                        messageDiv.innerText = data.message;
+
+                        discountRow.classList.add('d-none');
+                        finalTotalHeader.innerText = subtotal.toLocaleString('vi-VN') + 'đ';
+                    }
+                })
+                .catch(err => {
+                    messageDiv.className = "small mt-2 text-danger";
+                    messageDiv.innerText = "Có lỗi kết nối hệ thống khi kiểm tra voucher.";
+                });
+        }
+    </script>
+}

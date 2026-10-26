@@ -1,0 +1,84 @@
+@model FinalProjectWebDeveloper.Models.Product
+@{
+    ViewData["Title"] = "Thêm Sản Phẩm Mới";
+    var categories = ViewBag.Categories as IEnumerable<FinalProjectWebDeveloper.Models.Category> ?? new List<FinalProjectWebDeveloper.Models.Category>();
+}
+
+<div class="container py-4" style="color: #f5efe6;">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card border-0 shadow-lg" style="background-color: #1a1512; color: #f5efe6; border-radius: 15px;">
+                <div class="card-header border-0 bg-transparent pt-4 px-4">
+                    <h3 class="fw-bold text-uppercase mb-0" style="color: #d4a373;">
+                        <i class="bi bi-plus-circle"></i> Thêm Sản Phẩm Mới
+                    </h3>
+                </div>
+                <div class="card-body p-4">
+                    <form asp-action="Create" method="post" enctype="multipart/form-data">
+                        @Html.AntiForgeryToken()
+
+                        <div class="row mb-3">
+                            <div class="col-md-8">
+                                <label asp-for="ProductName" class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Tên sản phẩm *</label>
+                                <input asp-for="ProductName" class="form-control bg-transparent text-white border-secondary" required style="border-radius: 8px;">
+                            </div>
+                            <div class="col-md-4">
+                                <label asp-for="CategoryID" class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Loại sản phẩm *</label>
+                                <select asp-for="CategoryID" class="form-select bg-dark text-white border-secondary" required style="border-radius: 8px;">
+                                    <option value="">-- Chọn loại --</option>
+                                    @foreach (var cat in categories)
+                                    {
+                                        <option value="@cat.CategoryID">@cat.CategoryName</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+
+
+
+                        <div class="mb-4">
+                            <label class="form-label text-uppercase small fw-bold" style="color: #d4a373;">Hình ảnh sản phẩm</label>
+                            <input type="file" name="imageFile" class="form-control bg-transparent text-white border-secondary" style="border-radius: 8px;">
+                            <span class="small text-muted block mt-1" style="color: #c8b6a6 !important;">Định dạng ảnh: .jpg, .jpeg, .png. Nếu để trống hệ thống sẽ gán hình ảnh mặc định.</span>
+                        </div>
+
+                        <!-- Cấu hình giá các Size -->
+                        <h5 class="fw-bold mb-3 mt-4" style="color: #d4a373; border-bottom: 1px solid #3d3027; padding-bottom: 8px;">CẤU HÌNH GIÁ THEO KÍCH CỠ (SIZE)</h5>
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                <label for="priceS" class="form-label small fw-bold text-muted" style="color: #c8b6a6 !important;">Size S (360ml):</label>
+                                <div class="input-group">
+                                    <input type="number" id="priceS" name="priceS" class="form-control bg-transparent text-white border-secondary" min="0" placeholder="Để trống nếu không bán">
+                                    <span class="input-group-text bg-dark border-secondary text-white">đ</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="priceM" class="form-label small fw-bold text-muted" style="color: #c8b6a6 !important;">Size M (500ml):</label>
+                                <div class="input-group">
+                                    <input type="number" id="priceM" name="priceM" class="form-control bg-transparent text-white border-secondary" min="0" placeholder="Để trống nếu không bán">
+                                    <span class="input-group-text bg-dark border-secondary text-white">đ</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="priceL" class="form-label small fw-bold text-muted" style="color: #c8b6a6 !important;">Size L (700ml):</label>
+                                <div class="input-group">
+                                    <input type="number" id="priceL" name="priceL" class="form-control bg-transparent text-white border-secondary" min="0" placeholder="Để trống nếu không bán">
+                                    <span class="input-group-text bg-dark border-secondary text-white">đ</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="d-flex gap-3 justify-content-end mt-5 pt-3 border-top border-secondary">
+                            <a asp-action="Index" class="btn btn-outline-secondary px-4 py-2 border-secondary text-white" style="border-radius: 8px;">
+                                Quay Lại
+                            </a>
+                            <button type="submit" class="btn btn-primary px-4 py-2 border-0" style="background-color: #d4a373; color: #1a1512; font-weight: 500; border-radius: 8px;">
+                                Lưu Sản Phẩm
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

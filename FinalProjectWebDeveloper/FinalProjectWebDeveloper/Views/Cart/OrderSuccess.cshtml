@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Đặt Hàng Thành Công";
+    int orderId = ViewBag.OrderID ?? 0;
+    decimal total = ViewBag.Total ?? 0;
+}
+
+<div class="container py-5 text-center" style="color: #f5efe6;">
+    <div class="row justify-content-center">
+        <div class="col-md-7">
+            <div class="card border-0 shadow-lg p-5" style="background-color: #1a1512; color: #f5efe6; border-radius: 15px;">
+                <div class="mb-4">
+                    <i class="bi bi-check-circle-fill" style="font-size: 5rem; color: #d4a373;"></i>
+                </div>
+                
+                <h1 class="fw-bold text-uppercase mb-3" style="color: #d4a373; letter-spacing: 1px;">Đặt Hàng Thành Công!</h1>
+                <p class="fs-5 mb-4" style="color: #c8b6a6;">Cảm ơn bạn đã lựa chọn FastFoodShop. Chúng tôi đã nhận được thông tin đơn hàng và đang chuẩn bị những món ăn thơm ngon nóng hổi nhất cho bạn.</p>
+
+                <div class="p-4 mb-4 rounded text-start" style="background-color: #2b231d; border: 1px solid #3d3027;">
+                    <div class="row mb-2">
+                        <div class="col-sm-5 text-uppercase small text-muted" style="color: #c8b6a6 !important;">Mã Đơn Hàng:</div>
+                        <div class="col-sm-7 fw-bold text-white">#@orderId</div>
+                    </div>
+                    <div class="row mb-2">
+                        <div class="col-sm-5 text-uppercase small text-muted" style="color: #c8b6a6 !important;">Trạng Thái Đơn Hàng:</div>
+                        <div class="col-sm-7 fw-bold" style="color: #d4a373;">Đang xử lý (Mới)</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-5 text-uppercase small text-muted" style="color: #c8b6a6 !important;">Tổng Số Tiền:</div>
+                        <div class="col-sm-7 fw-bold text-white fs-5">@total.ToString("N0")đ</div>
+                    </div>
+                </div>
+
+                <div class="d-flex gap-3 justify-content-center mt-2">
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-primary px-4 py-3 text-uppercase fw-bold border-0" style="background-color: #d4a373; color: #1a1512; border-radius: 8px;">
+                        Tiếp tục mua hàng
+                    </a>
+                    <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary px-4 py-3 text-uppercase fw-bold border-secondary text-white" style="border-radius: 8px;">
+                        Về trang chủ
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

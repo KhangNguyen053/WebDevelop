@@ -1,0 +1,144 @@
+@model FinalProjectWebDeveloper.Models.Product
+@{
+    ViewData["Title"] = Model.ProductName;
+}
+
+<div class="container py-5" style="color: var(--color-text);">
+    <!-- Breadcrumb -->
+    <nav aria-label="breadcrumb" class="mb-4">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index" class="text-decoration-none" style="color: var(--color-primary);">Trang chủ</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Product" asp-action="Index" class="text-decoration-none" style="color: var(--color-primary);">Thực đơn</a></li>
+            <li class="breadcrumb-item active text-muted" aria-current="page">@Model.ProductName</li>
+        </ol>
+    </nav>
+
+    <div class="row g-5">
+        <!-- Ảnh Sản Phẩm -->
+        <div class="col-md-6">
+            <div class="card border-0 overflow-hidden shadow-sm" style="border-radius: 15px; background-color: var(--color-card-bg); border: 1px solid #e0e0e0;">
+                <img src="~/images/@Model.ImageURL" class="img-fluid w-100" alt="@Model.ProductName" style="object-fit: cover; max-height: 480px;">
+            </div>
+        </div>
+
+        <!-- Thông Tin Sản Phẩm -->
+        <div class="col-md-6 d-flex flex-column justify-content-between">
+            <div>
+                <span class="badge badge-gold px-3 py-2 mb-2 text-uppercase" style="font-weight: 600;">
+                    @Model.Category?.CategoryName
+                </span>
+                <h1 class="fw-bold mb-3" style="color: var(--color-text);">@Model.ProductName</h1>
+                
+                <h4 class="fw-bold mb-4" id="display-price" style="color: var(--color-primary);">
+                    @if (Model.ProductSizes.Any())
+                    {
+                        @Model.ProductSizes.OrderBy(s => s.Price).First().Price.ToString("N0")
+                    }
+                    else
+                    {
+                        <span>0</span>
+                    }đ
+                </h4>
+
+                <!-- Form Thêm Giỏ Hàng -->
+                <form asp-controller="Cart" asp-action="AddToCart" method="post" class="mt-4">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" name="productId" value="@Model.ProductID" />
+
+                    <!-- Chọn Kích Cỡ (Sizes) -->
+                    <div class="mb-4">
+                        <label class="form-label text-uppercase small fw-bold mb-3" style="color: var(--color-muted); letter-spacing: 1px;">Chọn Kích Cỡ (Size):</label>
+                        <div class="d-flex gap-3">
+                            @{
+                                var sortedSizes = Model.ProductSizes.OrderBy(s => s.Price).ToList();
+                                for (int i = 0; i < sortedSizes.Count; i++)
+                                {
+                                    var size = sortedSizes[i];
+                                    <div>
+                                        <input type="radio" class="btn-check" name="productSizeId" id="size-@size.ProductSizeID" value="@size.ProductSizeID" @(i == 0 ? "checked" : "") data-price="@size.Price" onchange="updatePrice(this)">
+                                        <label class="btn btn-outline-primary px-4 py-2" for="size-@size.ProductSizeID" style="border-radius: 8px; font-weight: 500;">
+                                            @size.SizeName
+                                        </label>
+                                    </div>
+                                }
+                            }
+                        </div>
+                    </div>
+
+                    <!-- Chọn Số Lượng -->
+                    <div class="mb-4">
+                        <label class="form-label text-uppercase small fw-bold mb-2" style="color: var(--color-muted); letter-spacing: 1px;">Số lượng:</label>
+                        <div class="input-group" style="width: 150px;">
+                            <button class="btn btn-outline-primary" type="button" onclick="changeQty(-1)" style="border-top-left-radius: 8px; border-bottom-left-radius: 8px;">-</button>
+                            <input type="number" class="form-control bg-white text-dark border-primary text-center" id="quantity" name="quantity" value="1" min="1" readonly style="font-weight: 600;">
+                            <button class="btn btn-outline-primary" type="button" onclick="changeQty(1)" style="border-top-right-radius: 8px; border-bottom-right-radius: 8px;">+</button>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 py-3 text-uppercase fw-bold mt-2" style="border-radius: 8px; border: none;">
+                        <i class="bi bi-cart-plus-fill me-2"></i> Thêm Vào Giỏ Hàng
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Đánh giá khách hàng -->
+    <div class="row mt-5 pt-5">
+        <div class="col-12">
+            <h3 class="fw-bold mb-4" style="color: var(--color-text); border-bottom: 2px solid var(--color-primary); padding-bottom: 10px;">ĐÁNH GIÁ TỪ KHÁCH HÀNG</h3>
+            @if (Model.Reviews == null || !Model.Reviews.Any())
+            {
+                <p class="text-muted">Chưa có đánh giá nào cho sản phẩm này.</p>
+            }
+            else
+            {
+                <div class="d-flex flex-column gap-3">
+                    @foreach (var review in Model.Reviews)
+                    {
+                        <div class="card border-0 p-4 shadow-sm" style="background-color: var(--color-card-bg); color: var(--color-text); border: 1px solid #e0e0e0; border-radius: 10px;">
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <h6 class="fw-bold mb-0" style="color: var(--color-primary);">@review.Customer?.FullName</h6>
+                                <span class="small text-muted">@review.ReviewDate?.ToString("dd/MM/yyyy HH:mm")</span>
+                            </div>
+                            <div class="mb-2">
+                                @for (int i = 1; i <= 5; i++)
+                                {
+                                    if (i <= review.Rating)
+                                    {
+                                        <i class="bi bi-star-fill text-warning"></i>
+                                    }
+                                    else
+                                    {
+                                        <i class="bi bi-star text-muted"></i>
+                                    }
+                                }
+                            </div>
+                            <p class="mb-0 text-secondary">@review.Comment</p>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function updatePrice(radio) {
+            const price = parseFloat(radio.getAttribute('data-price'));
+            document.getElementById('display-price').innerText = price.toLocaleString('vi-VN') + 'đ';
+        }
+
+        function changeQty(amount) {
+            const qtyInput = document.getElementById('quantity');
+            let currentVal = parseInt(qtyInput.value);
+            if (isNaN(currentVal)) currentVal = 1;
+            
+            let newVal = currentVal + amount;
+            if (newVal < 1) newVal = 1;
+            
+            qtyInput.value = newVal;
+        }
+    </script>
+}

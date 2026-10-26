@@ -1,0 +1,200 @@
+@using System.Text.Json
+@{
+    ViewData["Title"] = "Bảng Điều Khiển Admin";
+    var selectedDate = ViewBag.SelectedDate;
+    decimal dailyRevenue = ViewBag.DailyRevenue;
+    decimal monthlyRevenue = ViewBag.MonthlyRevenue;
+    decimal yearlyRevenue = ViewBag.YearlyRevenue;
+    var chartLabels = ViewBag.ChartLabels as List<string> ?? new List<string>();
+    var chartData = ViewBag.ChartData as List<decimal> ?? new List<decimal>();
+}
+
+<div class="container-fluid py-4" style="color: #f5efe6;">
+    <!-- Tiêu đề trang -->
+    <div class="d-flex justify-content-between align-items-center mb-4 pb-2 border-bottom border-secondary">
+        <div>
+            <h2 class="fw-bold text-uppercase" style="color: #d4a373; letter-spacing: 1px;">
+                <i class="bi bi-speedometer2"></i> Hệ Thống Quản Trị
+            </h2>
+            <p class="text-muted mb-0">Quản lý cửa hàng và theo dõi các chỉ số doanh thu</p>
+        </div>
+        <!-- Bộ lọc ngày -->
+        <form method="get" asp-action="Index" class="d-flex align-items-center gap-2">
+            <label for="date-picker" class="small fw-bold text-nowrap" style="color: #d4a373;">CHỌN NGÀY THỐNG KÊ:</label>
+            <input type="date" id="date-picker" name="date" class="form-control bg-dark text-white border-secondary" value="@selectedDate" onchange="this.form.submit()">
+        </form>
+    </div>
+
+    <!-- Thanh Điều hướng nhanh cho Admin -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card border-0 p-3" style="background-color: #1a1512; border-radius: 10px;">
+                <div class="d-flex flex-wrap gap-3 align-items-center">
+                    <span class="fw-bold text-uppercase small text-muted me-2" style="color: #c8b6a6 !important;">Công cụ quản lý:</span>
+                    <a asp-controller="Admin" asp-action="Index" class="btn btn-sm btn-primary border-0" style="background-color: #d4a373; color: #1a1512; font-weight: 500;">
+                        <i class="bi bi-graph-up"></i> Thống kê Doanh thu
+                    </a>
+                    <a asp-controller="AdminProducts" asp-action="Index" class="btn btn-sm btn-outline-secondary border-secondary text-white" style="font-weight: 500;">
+                        <i class="bi bi-cup-hot"></i> Quản lý Sản phẩm
+                    </a>
+                    <a asp-controller="AdminOrders" asp-action="Index" class="btn btn-sm btn-outline-secondary border-secondary text-white" style="font-weight: 500;">
+                        <i class="bi bi-receipt"></i> Quản lý Đơn hàng
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Khối chỉ số doanh thu -->
+    <div class="row g-4 mb-4">
+        <!-- Doanh thu ngày -->
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm text-center p-4" style="background-color: #1a1512; border-radius: 12px; border-top: 4px solid #d4a373 !important;">
+                <h6 class="text-uppercase small fw-bold" style="color: #d4a373;">Doanh thu ngày</h6>
+                <h3 class="fw-bold my-2 text-white">@dailyRevenue.ToString("N0")đ</h3>
+                <span class="small text-muted" style="color: #c8b6a6 !important;">Ngày chọn: @DateTime.Parse(selectedDate).ToString("dd/MM/yyyy")</span>
+            </div>
+        </div>
+        <!-- Doanh thu tháng -->
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm text-center p-4" style="background-color: #1a1512; border-radius: 12px; border-top: 4px solid #d4a373 !important;">
+                <h6 class="text-uppercase small fw-bold" style="color: #d4a373;">Doanh thu tháng</h6>
+                <h3 class="fw-bold my-2 text-white">@monthlyRevenue.ToString("N0")đ</h3>
+                <span class="small text-muted" style="color: #c8b6a6 !important;">Tháng chọn: @DateTime.Parse(selectedDate).ToString("MM/yyyy")</span>
+            </div>
+        </div>
+        <!-- Doanh thu năm -->
+        <div class="col-md-4">
+            <div class="card border-0 shadow-sm text-center p-4" style="background-color: #1a1512; border-radius: 12px; border-top: 4px solid #d4a373 !important;">
+                <h6 class="text-uppercase small fw-bold" style="color: #d4a373;">Doanh thu năm</h6>
+                <h3 class="fw-bold my-2 text-white">@yearlyRevenue.ToString("N0")đ</h3>
+                <span class="small text-muted" style="color: #c8b6a6 !important;">Năm chọn: @DateTime.Parse(selectedDate).ToString("yyyy")</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Khối Biểu đồ cột -->
+    <div class="row g-4">
+        <!-- Biểu đồ cột -->
+        <div class="col-lg-8">
+            <div class="card border-0 p-4 shadow-sm h-100" style="background-color: #1a1512; border-radius: 12px;">
+                <h5 class="fw-bold mb-4" style="color: #d4a373;">BIỂU ĐỒ DOANH THU 7 NGÀY GẦN NHẤT</h5>
+                <div style="position: relative; height: 320px; width: 100%;">
+                    <canvas id="revenueChart"></canvas>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Thống kê tổng hợp số liệu khác -->
+        <div class="col-lg-4">
+            <div class="card border-0 p-4 shadow-sm h-100" style="background-color: #1a1512; border-radius: 12px;">
+                <h5 class="fw-bold mb-4" style="color: #d4a373;">TỔNG QUAN HỆ THỐNG</h5>
+                <div class="d-flex flex-column gap-4">
+                    <div class="d-flex align-items-center justify-content-between p-3 rounded" style="background-color: #2b231d;">
+                        <div class="d-flex align-items-center gap-3">
+                            <i class="bi bi-cup-hot-fill" style="font-size: 2rem; color: #d4a373;"></i>
+                            <div>
+                                <h6 class="mb-0 fw-bold">Sản phẩm</h6>
+                                <span class="small text-muted">Đang kinh doanh</span>
+                            </div>
+                        </div>
+                        <h4 class="fw-bold mb-0">@ViewBag.TotalProducts</h4>
+                    </div>
+                    <div class="d-flex align-items-center justify-content-between p-3 rounded" style="background-color: #2b231d;">
+                        <div class="d-flex align-items-center gap-3">
+                            <i class="bi bi-receipt" style="font-size: 2rem; color: #d4a373;"></i>
+                            <div>
+                                <h6 class="mb-0 fw-bold">Đơn hàng</h6>
+                                <span class="small text-muted">Tổng số đơn hàng</span>
+                            </div>
+                        </div>
+                        <h4 class="fw-bold mb-0">@ViewBag.TotalOrders</h4>
+                    </div>
+                    <div class="d-flex align-items-center justify-content-between p-3 rounded" style="background-color: #2b231d;">
+                        <div class="d-flex align-items-center gap-3">
+                            <i class="bi bi-people-fill" style="font-size: 2rem; color: #d4a373;"></i>
+                            <div>
+                                <h6 class="mb-0 fw-bold">Khách hàng</h6>
+                                <span class="small text-muted">Đã đăng ký tài khoản</span>
+                            </div>
+                        </div>
+                        <h4 class="fw-bold mb-0">@ViewBag.TotalCustomers</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <!-- Thư viện Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Lấy dữ liệu C# từ ViewBag truyền qua JS
+            const labels = @Html.Raw(JsonSerializer.Serialize(chartLabels));
+            const data = @Html.Raw(JsonSerializer.Serialize(chartData));
+
+            const ctx = document.getElementById('revenueChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Doanh thu (đ)',
+                        data: data,
+                        backgroundColor: '#d4a373',
+                        borderColor: '#c8b6a6',
+                        borderWidth: 1,
+                        borderRadius: 5
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: {
+                                color: '#2b231d'
+                            },
+                            ticks: {
+                                color: '#c8b6a6',
+                                callback: function(value, index, values) {
+                                    return value.toLocaleString('vi-VN') + 'đ';
+                                }
+                            }
+                        },
+                        x: {
+                            grid: {
+                                display: false
+                            },
+                            ticks: {
+                                color: '#c8b6a6'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    if (context.parsed.y !== null) {
+                                        label += context.parsed.y.toLocaleString('vi-VN') + 'đ';
+                                    }
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+}

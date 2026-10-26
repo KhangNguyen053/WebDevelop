@@ -1,0 +1,62 @@
+@{
+    ViewData["Title"] = "Đăng Ký";
+}
+
+<div class="row justify-content-center align-items-center py-5">
+    <div class="col-md-6">
+        <div class="card border-0 shadow-sm" style="background-color: var(--color-card-bg); color: var(--color-text); border: 1px solid #e0e0e0; border-radius: 15px;">
+            <div class="card-body p-5">
+                <div class="text-center mb-4">
+                    <i class="bi bi-person-plus-fill" style="font-size: 3rem; color: var(--color-primary);"></i>
+                    <h2 class="fw-bold mt-2 text-uppercase" style="letter-spacing: 2px; color: var(--color-text);">Đăng Ký Thành Viên</h2>
+                    <p class="text-muted">Trở thành thành viên và nhận các ưu đãi hấp dẫn</p>
+                </div>
+
+                <form asp-action="Register" method="post">
+                    @Html.AntiForgeryToken()
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3 small"></div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="username" class="form-label text-uppercase small fw-bold" style="color: var(--color-muted);">Tên đăng nhập *</label>
+                            <input type="text" class="form-control bg-white text-dark border-secondary p-2" id="username" name="username" required style="border-radius: 8px;">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="password" class="form-label text-uppercase small fw-bold" style="color: var(--color-muted);">Mật khẩu *</label>
+                            <input type="password" class="form-control bg-white text-dark border-secondary p-2" id="password" name="password" required style="border-radius: 8px;">
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="fullName" class="form-label text-uppercase small fw-bold" style="color: var(--color-muted);">Họ và tên *</label>
+                        <input type="text" class="form-control bg-white text-dark border-secondary p-2" id="fullName" name="fullName" required style="border-radius: 8px;">
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="email" class="form-label text-uppercase small fw-bold" style="color: var(--color-muted);">Email</label>
+                            <input type="email" class="form-control bg-white text-dark border-secondary p-2" id="email" name="email" style="border-radius: 8px;">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="phone" class="form-label text-uppercase small fw-bold" style="color: var(--color-muted);">Số điện thoại</label>
+                            <input type="tel" class="form-control bg-white text-dark border-secondary p-2" id="phone" name="phone" style="border-radius: 8px;">
+                        </div>
+                    </div>
+
+                    <div class="mb-4">
+                        <label for="address" class="form-label text-uppercase small fw-bold" style="color: var(--color-muted);">Địa chỉ nhận hàng</label>
+                        <textarea class="form-control bg-white text-dark border-secondary p-2" id="address" name="address" rows="2" style="border-radius: 8px;"></textarea>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 py-3 text-uppercase fw-bold" style="border-radius: 8px; border: none;">
+                        Đăng Ký Tài Khoản
+                    </button>
+                </form>
+
+                <div class="text-center mt-4">
+                    <p class="mb-0 small text-secondary">Đã có tài khoản? <a asp-action="Login" class="fw-bold text-decoration-none" style="color: var(--color-primary);">Đăng nhập</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
